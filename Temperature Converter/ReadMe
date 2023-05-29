@@ -1,0 +1,6 @@
+This is a README file for the Temperature Converter project implemented in Java. The project aims to provide a simple and efficient way to convert temperatures between different units of measurement.
+
+Features
+Conversion between Celsius, Fahrenheit, and Kelvin temperature scales.
+User-friendly command-line interface.
+Error handling for invalid input.
