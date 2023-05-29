@@ -1,1 +1,20 @@
+This is a README file for a scientific calculator project implemented using Java. The project aims to create a command-line-based scientific calculator that can perform various mathematical operations and functions.
 
+Features
+The scientific calculator project includes the following features:
+
+Basic Arithmetic Operations:
+
+Addition
+Subtraction
+Multiplication
+Division
+Advanced Mathematical Functions:
+Square root
+Trigonometric functions (sine, cosine, tangent)
+Memory Functionality:
+
+Store and retrieve values from memory
+
+
+Hope you like this poject
